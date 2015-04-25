@@ -2,10 +2,10 @@
     
     {
         "bundleName" : "F/MyBundle",        
-        "version" : 9,        
+        "version" : 11,        
         "crc" : 1315906277,        
-        "size" : 115016,        
-        "changeTime" : -8587716377270118218,        
+        "size" : 709384,        
+        "changeTime" : -8587716345448675448,        
         "lastBuildDependencies" : 
         [
             "Assets/BundleManager/TestDownloadManager/BundleAssets/mats/cube1.mat",            
@@ -16,10 +16,10 @@
     
     {
         "bundleName" : "MyBundle2",        
-        "version" : 4,        
+        "version" : 6,        
         "crc" : 845170628,        
-        "size" : 2385,        
-        "changeTime" : -8587716357507688698,        
+        "size" : 11508,        
+        "changeTime" : -8587716345448675378,        
         "lastBuildDependencies" : 
         [
             "Assets/BundleManager/TestDownloadManager/BundleAssets/mats/sphere1.mat",            

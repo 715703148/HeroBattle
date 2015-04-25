@@ -1,5 +1,5 @@
 {
-    "compress" : true,    
+    "compress" : false,    
     "deterministicBundle" : false,    
     "bundleSuffix" : "assetBundle",    
     "buildOutputPath" : "",    
