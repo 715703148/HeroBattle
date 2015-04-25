@@ -1,0 +1,30 @@
+[
+    
+    {
+        "bundleName" : "F/MyBundle",        
+        "version" : 9,        
+        "crc" : 1315906277,        
+        "size" : 115016,        
+        "changeTime" : -8587716377270118218,        
+        "lastBuildDependencies" : 
+        [
+            "Assets/BundleManager/TestDownloadManager/BundleAssets/mats/cube1.mat",            
+            "Assets/BundleManager/TestDownloadManager/BundleAssets/prefabs/Cube.prefab",            
+            "Assets/BundleManager/TestDownloadManager/BundleAssets/charaterRes/Textures/constructor_diffuse.png"
+        ]
+    },    
+    
+    {
+        "bundleName" : "MyBundle2",        
+        "version" : 4,        
+        "crc" : 845170628,        
+        "size" : 2385,        
+        "changeTime" : -8587716357507688698,        
+        "lastBuildDependencies" : 
+        [
+            "Assets/BundleManager/TestDownloadManager/BundleAssets/mats/sphere1.mat",            
+            "Assets/BundleManager/textures/dependedAsset.png",            
+            "Assets/BundleManager/TestDownloadManager/BundleAssets/prefabs/Sphere.prefab"
+        ]
+    }
+]
